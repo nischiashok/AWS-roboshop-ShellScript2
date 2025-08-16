@@ -158,6 +158,9 @@ Ready to advance your shell scripting and automation skills? Explore these curat
 - [AWS-roboshop-ShellScript2](https://github.com/nischiashok/AWS-roboshop-ShellScript2)  
   🤖 **Integrated Infrastructure Setup** – Experience seamless Roboshop deployments with unified automation for common folders and services. 🌐⚙️
 
+- [Azure-Ansible-Roboshop](https://github.com/nischiashok/Azure-Ansible-Roboshop)  
+  🚀 **Automated provisioning and configuration of Roboshop microservices on Azure using Ansible roles and playbooks** 🌐⚙️
+
 ---
 
 ## 🤝 Credits & Connect 💬❤️
