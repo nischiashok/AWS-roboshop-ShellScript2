@@ -9,11 +9,9 @@ Automate the deployment and configuration of Roboshop microservices on AWS with 
 - [🧭 Quickstart](#-quickstart)
 - [🔧 Commands](#-commands)
 - [🖼️ Screenshots / Images](#-screenshots--images)
-- [🧪 Testing & Linting](#-testing--linting)
 - [🛡️ Security Notes](#-security-notes)
 - [🧰 Troubleshooting & FAQ](#-troubleshooting--faq)
-- [📋 Contributing](#-contributing)
-- [📄 License](#-license)
+
 </details>
 
 ---
