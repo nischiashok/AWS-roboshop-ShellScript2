@@ -118,24 +118,6 @@ sudo ./frontend.sh
 
 ---
 
-## 🧪 Testing & Linting 🔬✅
-
-Run [ShellCheck](https://www.shellcheck.net/) 🐚 on all scripts:
-
-```sh
-shellcheck *.sh
-```
-
-Format scripts with [shfmt](https://github.com/mvdan/sh) 🧹:
-
-```sh
-shfmt -w -i 4 *.sh
-```
-
-⚠️ No automated unit/integration tests detected.
-📝 Manual validation recommended after each deployment.
-
----
 
 ## 🛡️ Security Notes 🔒🛠️
 
